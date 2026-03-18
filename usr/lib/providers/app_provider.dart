@@ -98,9 +98,9 @@ D) Kidney stones
 A) GERD
 B) Zollinger-Ellison syndrome
 C) Acute gastritis
-D) Traveler\'s diarrhea
+D) Traveler's diarrhea
 **ANSWER: D**
-**EXPLANATION:** Traveler\'s diarrhea is typically treated with bismuth subsalicylate (Pepto-Bismol) or antibiotics, not PPIs.
+**EXPLANATION:** Traveler's diarrhea is typically treated with bismuth subsalicylate (Pepto-Bismol) or antibiotics, not PPIs.
 
 **Score:** Answer all questions above to see your score!
 **Weak Areas to Review:** Focus on PPI mechanisms and long-term effects.'''.trim();
@@ -115,4 +115,6 @@ I can help you understand:
 • Compare different drugs
 • Explain handwritten notes (upload images)
 
-What would you like to study today? Try asking about 
+What would you like to study today? Try asking about Omeprazole or say "quiz me".'''.trim();
+  }
+}

@@ -128,7 +128,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
     );
   }
 
-  Widget _buildFlashcard(Map<String, dynamic> card, double percentThresholdX) {
+  Widget _buildFlashcard(Map<String, dynamic> card, int percentThresholdX) {
     final isFlipped = percentThresholdX < 0; // Flip when swiping left
     
     return Card(

@@ -134,7 +134,7 @@ Based on your notes, focus on:
                 height: 200,
                 width: double.infinity,
                 decoration: BoxDecoration(
-                  border: Border.all(color: Colors.grey, style: BorderStyle.dashed),
+                  border: Border.all(color: Colors.grey),
                   borderRadius: BorderRadius.circular(8),
                 ),
                 child: const Column(
